@@ -1,0 +1,46 @@
+body {
+	background-color: #EBEBEB; 
+}
+
+.text-block {
+	background-color: white;
+	margin-left: 25%;
+	margin-right: 25%;
+	height:200px; 
+	width:600px; 
+}
+
+.container {
+
+}
+
+.text {
+	height: 100px;
+	width: 90%;
+	border: none;
+	margin-left: 5px;
+	
+}
+.text:hover {
+	background-color: lightyellow;
+	color: lightgray;
+	cursor: pointer;
+	height: 100px;
+
+}
+
+
+.buttons{
+	float: right;
+}
+
+.editor{
+	height: 100px;
+	width: 90%;
+	border: none;
+	margin-left: 5px;
+	background-color: #eee;
+}
+.something {
+	display: none;
+}
